@@ -1,0 +1,19 @@
+{
+"users" : [
+          {
+           "id" : 1,
+           "name" : "toto",
+           "email" : "toto@ici.com" 
+          },
+          {
+           "id" : 2,
+           "name" : "tata",
+           "email" : "tata@ici.com" 
+          },
+          {
+           "id" : 3,
+           "name" : "tutu",
+           "email" : "tutu@ici.com" 
+          }  
+          ]
+}
